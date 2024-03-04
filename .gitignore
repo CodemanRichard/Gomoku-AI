@@ -1,0 +1,14 @@
+__pycache__/
+.vscode/
+test.py
+test.ipynb
+RL/test.ipynb
+res/
+resources/
+play.bat
+logs/
+models/
+.DS_Store
+RL12/
+scripts/play*
+visual/
